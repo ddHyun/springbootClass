@@ -11,6 +11,6 @@ public class HelloController { //원격 프로그램
     @RequestMapping("/hello")
     public void main(){
         System.out.println("hello");
-        System.out.println("테스트");
+        System.out.println("conflict resolved");
     }
 }
